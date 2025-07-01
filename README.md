@@ -81,3 +81,21 @@ High resistance to brute force and dictionary attacks
 
 Perfect for securing important accounts
 ```
+🔐 Summary: How Password Complexity Affects Security
+===
+Password complexity plays a critical role in protecting accounts and systems from cyberattacks. Here's how:
+
+Increases Brute-Force Resistance
+Complex passwords (with upper/lowercase letters, numbers, and symbols) have more possible combinations, making them harder and slower to crack using brute-force attacks.
+
+Avoids Dictionary Attacks
+Simple passwords or common words are vulnerable to dictionary attacks. Complex passwords using non-dictionary patterns significantly reduce this risk.
+
+Reduces Guessability
+Predictable passwords (e.g., 123456, password) are easily guessed. Complex, random strings are nearly impossible to guess.
+
+Enhances Entropy (Randomness)
+Higher complexity means higher entropy, which makes the password statistically stronger and more secure.
+
+Slows Down Attack Tools
+Automated tools struggle more with passwords that have irregular patterns, mixed characters, and increased length.
