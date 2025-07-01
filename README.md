@@ -49,7 +49,8 @@ Consider slightly increasing length to 15–16 characters
 
 ![image](https://github.com/user-attachments/assets/d621aa64-8895-404f-9b6f-06974b2d7c39)
 
-#  Password: $@ttl!lec00municati0N
+🔐 Password Analysis: $@ttl!lec00municati0N
+===
 ```
 🔍 Detailed Evaluation
 Feature	Value / Result
