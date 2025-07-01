@@ -45,5 +45,38 @@ Consider slightly increasing length to 15–16 characters
 
 ```
 
-# Password- 2 
+# Password- 2 $@ttl!lec00municati0N
 
+![image](https://github.com/user-attachments/assets/d621aa64-8895-404f-9b6f-06974b2d7c39)
+
+#  Password: $@ttl!lec00municati0N
+```
+🔍 Detailed Evaluation
+Feature	Value / Result
+Length	21 characters ✅ (Very Strong)
+Uppercase letters	N ✅
+Lowercase letters	Present ✅ (t, l, e, c, m, u, n, etc.)
+Numbers	00, 0 ✅
+Special characters	$, @, ! ✅✅✅
+Repetition	Minimal and intentional (00) 👍
+Dictionary word(s)	“telecommunication” (obfuscated) → Hard to guess 🔐
+Entropy / Complexity	High ✨
+
+🔐 Password Strength Rating (Expected via Tools)
+PasswordMeter.com → Score: 95–100% (Very Strong)
+
+NordPass Checker → Very Strong, virtually uncrackable via brute-force
+
+Kaspersky Checker → “Extremely strong”, estimated cracking time: trillions of years
+
+✅ Conclusion
+$@ttl!lec00municati0N is a very strong password:
+
+Excellent length (21 characters)
+
+Obfuscation of a known word with numbers + symbols makes it hard to guess
+
+High resistance to brute force and dictionary attacks
+
+Perfect for securing important accounts
+```
